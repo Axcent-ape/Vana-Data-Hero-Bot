@@ -15,7 +15,7 @@ Additional soft information: https://t.me/ApeCryptorSoft/134
 | Get statistics for all accounts                                  |     ✅     |
 
 ## Requirements
-- Python 3.11 (you can install it [here](https://www.python.org/downloads/release/python-311/)) 
+- Python 3.11 (you can install it [here](https://www.python.org/downloads/release/python-3110/)) 
 - Telegram API_ID and API_HASH (you can get them [here](https://my.telegram.org/auth))
 
 1. Install the required dependencies:
